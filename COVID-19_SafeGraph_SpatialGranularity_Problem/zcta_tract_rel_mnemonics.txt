@@ -1,0 +1,49 @@
+ZCTA5: ZCTA5 (ZIP Code Tabulation Area) refers to a geographic region represented by a 5-digit ZIP code.
+
+STATE: The state where the ZCTA is located.
+
+COUNTY: The county where the ZCTA is located.
+
+TRACT: The census tract where the ZCTA is located.
+
+GEOID: The geographic identifier for the ZCTA.
+
+POPPT: The estimated total population of the ZCTA.
+
+HUPT: The estimated total number of housing units in the ZCTA.
+
+AREAPT: The estimated total land area of the ZCTA.
+
+AREALANDPT: The estimated total land area of the ZCTA that is not covered by water.
+
+ZPOP: The estimated population of the ZCTA as a proportion of the total population of the state.
+
+ZHU: The estimated number of housing units in the ZCTA as a proportion of the total number of housing units in the state.
+
+ZAREA: The estimated land area of the ZCTA as a proportion of the total land area of the state.
+
+ZAREALAND: The estimated land area of the ZCTA that is not covered by water as a proportion of the total land area of the state that is not covered by water.
+
+TRPOP: The estimated population of the ZCTA as a proportion of the total population of the census tract.
+
+TRHU: The estimated number of housing units in the ZCTA as a proportion of the total number of housing units in the census tract.
+
+TRAREA: The estimated land area of the ZCTA as a proportion of the total land area of the census tract.
+
+TRAREALAND: The estimated land area of the ZCTA that is not covered by water as a proportion of the total land area of the census tract that is not covered by water.
+
+ZPOPPCT: The estimated population of the ZCTA as a percentage of the total population of the state.
+
+ZHUPCT: The estimated number of housing units in the ZCTA as a percentage of the total number of housing units in the state.
+
+ZAREAPCT: The estimated land area of the ZCTA as a percentage of the total land area of the state.
+
+ZAREALANDPCT: The estimated land area of the ZCTA that is not covered by water as a percentage of the total land area of the state that is not covered by water.
+
+TRPOPPCT: The estimated population of the ZCTA as a percentage of the total population of the census tract.
+
+TRHUPCT: The estimated number of housing units in the ZCTA as a percentage of the total number of housing units in the census tract.
+
+TRAREAPCT: The estimated land area of the ZCTA as a percentage of the total land area of the census tract.
+
+TRAREALANDPCT: The estimated land area of the ZCTA that is not covered by water as a percentage of the total land area of the census tract that is not covered by water.
