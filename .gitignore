@@ -1,2 +1,6 @@
 
 BigdataVisualization/nyc_taxi.csv
+BigdataVisualization/census/census.parq/_common_metadata
+BigdataVisualization/census/census.parq/_metadata
+*.parquet
+BigdataVisualization/Geog573_Lab8.ipynb
