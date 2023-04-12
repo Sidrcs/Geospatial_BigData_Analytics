@@ -4,3 +4,5 @@ BigdataVisualization/census/census.parq/_common_metadata
 BigdataVisualization/census/census.parq/_metadata
 *.parquet
 BigdataVisualization/Geog573_Lab8.ipynb
+BigdataVisualization/census-midwest.csv
+BigdataVisualization/CensusTract_deckgl.ai
