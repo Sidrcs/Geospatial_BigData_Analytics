@@ -7,3 +7,5 @@ BigdataVisualization/Geog573_Lab8.ipynb
 BigdataVisualization/census-midwest.csv
 BigdataVisualization/CensusTract_deckgl.ai
 GeographicWeightedRegression/2012-2020_Election_Data_with_2020_Wards.geojson
+GeographicWeightedRegression/Example9.1_SpatialAutocorrelation.ipynb
+GeographicWeightedRegression/Example9.2_GWR_Georgia_example.ipynb
