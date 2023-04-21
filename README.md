@@ -11,4 +11,5 @@ The below image shows the <b>distribution of wasted votes </b><sup><a href = "ht
 
 ## <a href = "https://github.com/Sidrcs/Geospatial_BigData_Analytics/blob/main/GeographicWeightedRegression/MoransI_GWR_Sid.ipynb"> Google Earth Engine Repository</a>
 
-3. Google Earth Engine (GEE) map is a powerful geospatial analysis tool that uses power of Google data to create distinct and large-scale map products developed by Professor Quisheng Wu<sup><a href = "https://geemap.org/">[2]</a></sup>.
+3. Google Earth Engine (GEE) map is a powerful geospatial analysis tool that uses power of Google data to create distinct and large-scale map products developed by Professor <b>Quisheng Wu</b> from University of Tennessee, Knoxville. <sup><a href = "https://geemap.org/">[2]</a></sup> As part of analysis, I was able to create a timelapse of <b>Las Vegas, Nevada</b> that depicts urban growth and how urban analysis is important.
+<img src = "https://github.com/Sidrcs/Geospatial_BigData_Analytics/blob/main/Google_Earth_Engine/landsat_ts.gif?raw=true">
